@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Volumes/Data/Programs/**/*.jar",
+            "/Users/df/Programs/Java/Pertemuan 11/mysql-connector-j-8.0.32/**/*.jar"
+        ],
+        "exclude": [
+            "/Users/df/Programs/Java/Pertemuan 11/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32.jar",
+            "/Volumes/Data/Programs/Java/OOP/Library/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32.jar"
+        ]
+    }
+}
